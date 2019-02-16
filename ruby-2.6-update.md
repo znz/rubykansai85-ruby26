@@ -230,8 +230,6 @@ p plus2times3.(5) #=> (5 + 2) * 3 => 21
 
 # 2.6.0 の Net::HTTP のバグ
 
-![](https://mensfeld.pl/wp-content/uploads/2019/01/2362687465_17723a45d8_o.jpg){:width='300' height='200'}
-
 - 詳細: <https://mensfeld.pl/2019/01/exploring-a-critical-netprotocol-issue-in-ruby-2-6-0p0-and-how-it-can-lead-to-a-security-problem/>
 
 # 2.6.0 の Net::HTTP のバグ
