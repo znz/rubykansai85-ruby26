@@ -1,6 +1,6 @@
 # Ruby 2.6 Update
 
-TODO: スライドの説明
+[第85回 Ruby関西 勉強会](https://rubykansai.doorkeeper.jp/events/85497)の発表資料です。
 
 ## 作者向け
 
